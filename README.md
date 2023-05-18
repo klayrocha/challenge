@@ -27,7 +27,7 @@ to implements interface</p>
 notifyAboutTransfer method</p>
 <p>Created new method called <b>isValueNegative</b> in AccountsService to validate
 negative value</p>
-<p>Created new method called <b>isValueNegative</b> in AccountsService to validate
+<p>Created new method called <b>isBalanceNotSufficient</b> in AccountsService to validate
 not sufficient value</p>
 <p>Created new method called <b>unlockAccount</b> in AccountsService to handler
 concurrency thread</p>
